@@ -14,7 +14,7 @@ This project was a school mission, the game is made in the terminal.<br>
 * End results, both for losing❌ and winning🏆
 # What is custumizable
 * Level up Requirment
-* Life
+* Lifes❤️
 * Speed of the enemy's
 * width↔️ and the height↕️ of the game
 # Language
